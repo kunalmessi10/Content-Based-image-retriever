@@ -1,6 +1,6 @@
 # Content-Based-image-retriever-using-Denoising-Autoencoder
 
-Content based image retrieval (CBIR) systems enable to find similar images to a query image among an image dataset. The most famous CBIR system is the search per image feature of Google search.This project is a CBIR made on the MNIST dataset based on the Deep Learning Framework.
+Content based image retrieval (CBIR) systems enable to find similar images to a query image among an image dataset. The most famous CBIR system is the search per image feature of Google search.This project is a CBIR made on the MNIST dataset based on the Deep Learning Framework Keras.
 
 Our CBIR will be based on convolutional denoising autoencoder.It is a class of unsupervised learning algorithms.Basically we first extract features from an image database and store it. Then we compute the features associated with a query image. Finally we retrieve images with the closest features.
 
